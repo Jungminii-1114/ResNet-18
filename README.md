@@ -1,3 +1,4 @@
+### In this project, we implemented the ResNet-18 architecture from scratch using PyTorch, without relying on pre-defined model libraries.
 
 Due to the file size limit, the dataset files (train.tar, test.tar) are hosted on Google Drive. Please download them from the link below:
 
